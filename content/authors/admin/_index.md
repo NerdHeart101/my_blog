@@ -18,9 +18,7 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Garrett Smith serves as the FIRST Senior Mentor for the West & Panhandle region of Texas. Garrett currently studies technical communication and computer science at Texas Tech University and has a passion for user experience, instructional design and development, and interactive content. Garrett also works as an assistant for the Texas Tech University Whitacre College of Engineering STEM Outreach Program, helping support robotics and STEM education in the West Texas area.
-Garrett stepped into the world of FIRST in 2016 and became a proud FIRST alumni from the Texas Tech University FIRST Robotics Competition team, 1817 The Llano Estacado RoboRaiders and the Lubbock-Cooper High School FIRST Tech Challenge team, 11719 IronHook. In 2018, Garrett became a FIRST mentor and volunteer, serving roles such as robot inspecting, judging, tech advising.
-As a FIRST Senior Mentor, Garrett helps recruit, support, and expand FIRST programming in the West & Panhandle region of Texas through workshops, volunteer recruitment, team support, outreach, and more!
+bio: Garrett Smith
 
 # Interests to show in About widget
 interests:

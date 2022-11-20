@@ -22,19 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: STEM Outreach Program Assistant
+    company: Texas Tech University - Edward E. Whitacre, Jr. College of Engineering
+    company_url: 'https://www.depts.ttu.edu/coe/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Lubbock, Texas
+    date_start: '2020-08-25'
+    date_end: 'Present'
     description: |2-
+        I work as an assistant for the Texas Tech College Of Engineering STEAM Outreach & Engagement department.
+        
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+       Assist with tasks involving FIRST, BEST, and GEAR.
+       Help judge and manage scores for the BEST robotics competition.
+       Work with the BEST National Registry and Online Scoring Manager application. 
+       Assist other volunteers with scoring and judging for BEST robotics competitions.
+       Assist coaches with the BEST National Registry. 
+       Keep up with updates regarding BEST.
+       Provide technical support for BEST related items.
+       Develop presentations and other visual materials to assist coaches and volunteers with BEST, FIRST,and GEAR.
+       Provide support for coaches involved with FIRST and/or BEST. 
 
   - title: Professor of Semiconductor Physics
     company: University X

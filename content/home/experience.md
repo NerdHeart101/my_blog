@@ -34,15 +34,15 @@ experience:
         
         Responsibilities include:
         
-       Assist with tasks involving FIRST, BEST, and GEAR.
-       Help judge and manage scores for the BEST robotics competition.
-       Work with the BEST National Registry and Online Scoring Manager application. 
-       Assist other volunteers with scoring and judging for BEST robotics competitions.
-       Assist coaches with the BEST National Registry. 
-       Keep up with updates regarding BEST.
-       Provide technical support for BEST related items.
-       Develop presentations and other visual materials to assist coaches and volunteers with BEST, FIRST,and GEAR.
-       Provide support for coaches involved with FIRST and/or BEST. 
+       * Assist with tasks involving FIRST, BEST, and GEAR.
+       * Help judge and manage scores for the BEST robotics competition.
+       * Work with the BEST National Registry and Online Scoring Manager application. 
+       * Assist other volunteers with scoring and judging for BEST robotics competitions.
+       * Assist coaches with the BEST National Registry. 
+       * Keep up with updates regarding BEST.
+       * Provide technical support for BEST related items.
+       * Develop presentations and other visual materials to assist coaches and volunteers with BEST, FIRST,and GEAR.
+       * Provide support for coaches involved with FIRST and/or BEST. 
 
   - title: Professor of Semiconductor Physics
     company: University X

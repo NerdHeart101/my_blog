@@ -25,7 +25,7 @@ experience:
   - title: STEM Outreach Program Assistant
     company: Texas Tech University - Edward E. Whitacre, Jr. College of Engineering
     company_url: 'https://www.depts.ttu.edu/coe/'
-    company_logo: org-gc
+    company_logo: coe_logo
     location: Lubbock, Texas
     date_start: '2020-08-20'
     date_end: ''

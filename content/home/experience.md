@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.depts.ttu.edu/coe/'
     company_logo: org-gc
     location: Lubbock, Texas
-    date_start: '2020-08-25'
-    date_end: 'Present'
+    date_start: '2020-08-20'
+    date_end: ''
     description: |2-
         I work as an assistant for the Texas Tech College Of Engineering STEAM Outreach & Engagement department.
         

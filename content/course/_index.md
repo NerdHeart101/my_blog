@@ -4,7 +4,7 @@ type: page
 tags:
   - preface
 
-view: compact
+view: card
 
 banner:
   caption: ''

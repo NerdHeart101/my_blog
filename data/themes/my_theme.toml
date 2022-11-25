@@ -1,0 +1,19 @@
+name = "scarlet"
+
+[dark]
+
+    primary = "#010400"
+    background = "#FAFAFF"
+
+    link = "#D08770"
+    link_hover = "#88C0D0"
+
+    # Menu
+    menu_primary = "#EB1819"
+    menu_text = "#FAFAFF"
+    menu_text_active = "#74776B"
+    menu_title = "#010400"
+
+    # Home sections
+    home_section_odd = "#FAFAFF"
+    home_section_even = "#010400"
